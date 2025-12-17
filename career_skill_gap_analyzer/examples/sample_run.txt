@@ -1,0 +1,13 @@
+Input:
+Degree: B.Tech
+Skills: excel, sql
+Career: Data Analyst
+Level: Beginner
+
+Output:
+Matching Skills:
+- excel
+- sql
+
+Missing Skills:
+- statistics
