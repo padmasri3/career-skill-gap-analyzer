@@ -2,31 +2,6 @@
 A rule-based Python chatbot that analyzes students' current skills and identifies gaps for a chosen career path using deterministic logic.
 Absolutely! Let’s turn all of your notes into a **professional, neat, interview-ready README.md** with clear explanations, usage instructions, and file-by-file descriptions. I’ve structured it so anyone reviewing your project (including interviewers) can immediately understand what’s going on.
 
-## 📂 Project Structure
-career_skill_gap_analyzer/
-│
-├── conversation/
-│   └── flow.py                # Console-based guided conversation
-│
-├── data/
-│   ├── career_roles.py        # Lists all career roles by domain
-│   ├── career_skills.py       # Maps career roles to required skills (beginner/intermediate)
-│   └── skill_relations.py     # Defines related skills for partial credit in skill matching
-│
-├── examples/
-│   └── sample_run.txt         # Example input/output runs
-│
-├── logic/
-│   └── skill_gap_logic.py     # Core business logic: skill gap analysis & related skills
-│
-├── ui/
-│   └── gui.py                 # Tkinter-based desktop GUI interface
-│
-├── utils/
-│   └── helpers.py             # Helper functions for input cleaning & preprocessing
-│
-└── main.py                    # Entry point for console or GUI mode
-
 ## ⚙️ Features
 
 * Step-by-step guided conversation for students
